@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE student passionate about full-stack development and DSA in C++. I enjoy building real-world projects using HTML, CSS, JavaScript, Node.js, Express, and MongoDB. Always learning, building, and improving 🚀
+IT student passionate about full-stack development and DSA in C++. I enjoy building real-world projects using HTML, CSS, JavaScript, Node.js, Express, and MongoDB. Always learning, building, and improving 🚀
 
 
 ## 🌐 Socials:
