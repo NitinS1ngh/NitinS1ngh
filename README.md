@@ -2,10 +2,16 @@
 IT student passionate about full-stack development and DSA in C++. I enjoy building real-world projects using HTML, CSS, JavaScript, Node.js, Express, and MongoDB. Always learning, building, and improving 🚀
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-singh-3ab5b8297/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ns23241802@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitin_s1ngh)
+## 🌐 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUREMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
 
 
 # 💻 Tech Stack:
