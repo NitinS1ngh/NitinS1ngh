@@ -20,12 +20,6 @@ IT student passionate about full-stack development and DSA in C++. I enjoy build
 ![](https://github-readme-stats.vercel.app/api?username=NitinS1ngh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NitinS1ngh&theme=dark&hide_border=false)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=NitinS1ngh&icon=0&color=0)](https://visitcount.itsvg.in)
